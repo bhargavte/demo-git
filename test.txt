@@ -1,0 +1,7 @@
+Spring Boot is a Framework from “The Spring Team” to ease the 
+bootstrapping and development of new Spring Applications.
+It provides defaults for code and annotation configuration
+ to quick start new Spring projects within no time. It follows
+ “Opinionated Defaults Configuration” Approach to avoid lot of boilerplate code
+ and configuration to improve Development,
+ Unit Test and Integration Test Process.
